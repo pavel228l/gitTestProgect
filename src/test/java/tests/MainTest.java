@@ -15,6 +15,7 @@ public class MainTest {
     public void bebebe2() {
 
         System.out.println("pingvin zombi");
+        System.out.println("bobry mutanty");
 
     }
 }
