@@ -17,6 +17,7 @@ public class MainTest {
         System.out.println("morzhy bomzhy");
         System.out.println("enoty zombi");
         System.out.println("pandy manyaki");
+        System.out.println("kot slesar");
 
     }
 }
