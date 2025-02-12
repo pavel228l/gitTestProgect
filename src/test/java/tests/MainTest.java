@@ -15,6 +15,7 @@ public class MainTest {
     public void bebebe2() {
 
         System.out.println("morzhy bomzhy");
+        System.out.println("enoty zombi");
 
     }
 }
