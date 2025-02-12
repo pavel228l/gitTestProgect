@@ -10,4 +10,11 @@ public class MainTest {
         System.out.println("tyulen kazhdyi den");
 
     }
+
+    @Test
+    public void bebebe2() {
+
+        System.out.println("morzhy bomzhy");
+
+    }
 }
