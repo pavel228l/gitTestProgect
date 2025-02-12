@@ -16,6 +16,7 @@ public class MainTest {
 
         System.out.println("pingvin zombi");
         System.out.println("bobry mutanty");
+        System.out.println("horki vampiry");
 
     }
 }
