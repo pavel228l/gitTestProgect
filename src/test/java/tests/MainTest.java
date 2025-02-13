@@ -13,6 +13,15 @@ public class MainTest {
 
     @Test
     public void bebebe2() {
+
+        System.out.println("morzhy bomzhy");
+        System.out.println("enoty zombi");
+        System.out.println("pandy manyaki");
+        System.out.println("kot slesar");
+        System.out.println("belki raidery");
+        System.out.println("krokodily gorilly");
+        System.out.println("bobry");
+
     }
       @Test
     public void bebebe3() {
