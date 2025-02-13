@@ -13,6 +13,11 @@ public class MainTest {
 
     @Test
     public void bebebe2() {
-
+    }
+      @Test
+    public void bebebe3() {
+       System.out.println("pingvin zombi");
+        System.out.println("bobry mutanty");
+        System.out.println("horki vampiry");
     }
 }
