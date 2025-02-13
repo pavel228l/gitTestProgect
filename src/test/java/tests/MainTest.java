@@ -14,7 +14,5 @@ public class MainTest {
     @Test
     public void bebebe2() {
 
-        System.out.println("pingvin zombi");
-
     }
 }
