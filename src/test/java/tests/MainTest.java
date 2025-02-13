@@ -20,8 +20,7 @@ public class MainTest {
         System.out.println("belki raidery");
         System.out.println("krokodily gorilly");
         System.out.println("bobry");
-        System.out.println("bobry");
-        
+
     }
       @Test
     public void bebebe3() {
