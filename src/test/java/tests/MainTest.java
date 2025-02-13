@@ -9,6 +9,7 @@ public class MainTest {
 
         System.out.println("tyulen kazhdyi den");
         System.out.println("tyulen kazhdyi den");
+        System.out.println("tyulen kazhdyi den");
     }
 
     @Test
