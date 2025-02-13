@@ -8,6 +8,8 @@ public class MainTest {
     public void bebebe() {
 
         System.out.println("tyulen kazhdyi den");
+        System.out.println("tyulen kazhdyi den");
+        System.out.println("tyulen kazhdyi den");
     }
 
     @Test
