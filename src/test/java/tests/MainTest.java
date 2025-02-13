@@ -20,6 +20,7 @@ public class MainTest {
         System.out.println("kot slesar");
         System.out.println("belki raidery");
         System.out.println("krokodily gorilly");
+        System.out.println("bobry");
 
     }
 }
