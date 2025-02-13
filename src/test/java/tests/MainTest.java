@@ -1,5 +1,6 @@
 package tests;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class MainTest {
@@ -21,6 +22,8 @@ public class MainTest {
         System.out.println("belki raidery");
         System.out.println("krokodily gorilly");
         System.out.println("bobry");
+
+        Assert.assertEquals("a", "a");
     }
     
       @Test
@@ -28,6 +31,8 @@ public class MainTest {
        System.out.println("pingvin zombi");
         System.out.println("bobry mutanty");
         System.out.println("horki vampiry");
+          Assert.assertEquals("a", "a");
+
     }
 
     @Test
@@ -35,5 +40,7 @@ public class MainTest {
        System.out.println("pingvin zombi");
         System.out.println("bobry mutanty");
         System.out.println("horki vampiry");
+        Assert.assertEquals("a", "a");
+        
     }
 }
