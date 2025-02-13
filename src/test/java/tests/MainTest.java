@@ -41,6 +41,6 @@ public class MainTest {
         System.out.println("bobry mutanty");
         System.out.println("horki vampiry");
         Assert.assertEquals("a", "a");
-        
+
     }
 }
