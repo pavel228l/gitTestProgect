@@ -23,4 +23,10 @@ public class MainTest {
         System.out.println("bobry");
 
     }
+      @Test
+    public void bebebe3() {
+       System.out.println("pingvin zombi");
+        System.out.println("bobry mutanty");
+        System.out.println("horki vampiry");
+    }
 }
