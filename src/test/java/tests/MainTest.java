@@ -28,4 +28,11 @@ public class MainTest {
         System.out.println("bobry mutanty");
         System.out.println("horki vampiry");
     }
+
+    @Test
+    public void bebebe4() {
+       System.out.println("pingvin zombi");
+        System.out.println("bobry mutanty");
+        System.out.println("horki vampiry");
+    }
 }
